@@ -1,0 +1,64 @@
+h1{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 75px;
+    color: red;
+    margin: 30px 100px;
+}
+
+body{
+    background-image: linear-gradient(
+       rgba(0,0,0,0),
+       rgba(0,0,0,0.6)
+    ), url("https://www.teknofilo.com/wp-content/uploads/2021/06/Netflix-1280x720.jpg");    
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif; 
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-bottom: 0%;
+    
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+h4{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 50px ;
+}
+
+
+
+
+.idioma{
+    position: absolute;
+    text-align: right;
+    top: 50px;
+    left: 1200px;
+}
+
+.inicio{
+    position: absolute;
+    text-align: right;
+    top: 50px;
+    left: 1300px;
+}
+
+.empezar{
+    text-align: center;
+
+}
